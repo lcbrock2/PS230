@@ -1,4 +1,4 @@
-"Year","State","Heart_Attack_Rate","Smoking_Rate","Post","Treat","avg_rate_before","avg_rate_after"
+"year","state","heart_attack_rate","smoking_rate","post","treat","avg_rate_before","avg_rate_after"
 1998,"Idaho",150,20.3947771309162,0,0,151,153
 1999,"Idaho",150.666666666667,17.8572051519539,0,0,151,153
 2000,"Idaho",151.333333333333,21.270769737868,0,0,151,153
